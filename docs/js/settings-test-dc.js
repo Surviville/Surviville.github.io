@@ -6,7 +6,7 @@ window.ca = {};
 window.ca['svc30Staking'] = '';
 window.ca['svc14Staking'] = '';
 window.ca['svc7Staking'] = '';
-window.ca['svc0Staking'] = '0x1c03597DcDfBA7b36ec0Ae964DF6e1440e9d917B';
+window.ca['svc0Staking'] = '0xD65d45553F15ca5a71E6E90372564cE8F804E04c';
 window.ca['cards'] = '0x1A3f29ae91462f8e723f9dDa82e9D6c3796c596C';
 
 window.ca['svc'] = '0xE7B1076d0853a7aAa6FbB477886726ed03C6Fffd';
